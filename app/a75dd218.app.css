@@ -5,6 +5,10 @@ body{margin:0}
   display: table;
   margin: 0 auto
 }
+div.row.anchor {
+  padding-top: 70px; 
+  margin-top: -60px;
+}
 .call-to-action {
   background-color: #2e8a8a;
   color: white;
